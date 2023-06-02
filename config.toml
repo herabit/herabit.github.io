@@ -27,7 +27,7 @@ author = "Hera Chamorro"
 ogimage = "lightning.png"
 
 zola = true
-netlify = true
+netlify = false
 maintained_with_love = true
 
 footer_links = [
