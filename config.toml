@@ -34,4 +34,5 @@ footer_links = [
     {url = "$BASE_URL/about", name = "About"},
     {url = "$BASE_URL/atom.xml", name = "RSS"},
     {url = "https://github.com/herabit", name = "Github"},
+    {url = "https://tech.lgbt/@herabit", name = "Mastodon"}
 ]
