@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>hera.wtf</title>
+    <subtitle>Hera&#x27;s little corner on the internet.</subtitle>
+    <link href="https://hera.wtf/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://hera.wtf"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-06-02T00:00:00+00:00</updated>
+    <id>https://hera.wtf/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Coder&#x27;s Block: An Exploration</title>
+        <published>2023-06-02T00:00:00+00:00</published>
+        <updated>2023-06-02T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://hera.wtf/blog/coders-block/" type="text/html"/>
+        <id>https://hera.wtf/blog/coders-block/</id>
+        
+        <content type="html">&lt;p&gt;I started programming at an early age, roughly eight or nine. I am profoundly lucky, I had access to somewhat modern hardware and a supportive family. My interest in programming was spurred because I got a new laptop in 2014, and I became increasingly obsessed with Minecraft. I started making crappy Minecraft-related websites, the majority being for me and my friends. I haven&#x27;t stopped learning. I have been writing code for nearly a decade merely out of the joy of learning.&lt;&#x2F;p&gt;
+&lt;p&gt;I still, greatly enjoy the learning process. It&#x27;s probably the thing I derive the most pleasure from. However, since the summer of last year, I&#x27;ve been running into issues with creating, maintaining, and &amp;quot;finishing&amp;quot; projects. Oftentimes, I have no idea what I want to do with my time. I have been spending an excessive amount of time making a programming language that, I haven&#x27;t gotten to a remotely viable state. It has been taking me so long because of a lack of direction. I often get an idea and implement it, only to soon ditch it entirely. My programming language project has gone through the following rough ideas (I am likely forgetting some), none with any concrete design specification:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;OOP with lifetimes.&lt;&#x2F;li&gt;
+&lt;li&gt;C but easier to use.&lt;&#x2F;li&gt;
+&lt;li&gt;Math-oriented functional language.&lt;&#x2F;li&gt;
+&lt;li&gt;OOP with lifetimes but also an easier-to-use C.&lt;&#x2F;li&gt;
+&lt;li&gt;Dynamically typed OOP language.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;I&#x27;m struggling to come up with project ideas that I am passionate about. I am very passionate about the process, writing code, learning new concepts, problem-solving, and so on. However, for whatever reason, I am struggling to come up with ideas that I am legitimately passionate about. They don&#x27;t have to be outlandish or complex, I just need to be interested in them. I&#x27;m interested in language development, just not my language. I&#x27;m interested in making an SSG for myself, I just can&#x27;t figure out what I want in an SSG. It&#x27;s, frankly exhausting. I&#x27;m spending more time researching concepts in the hopes they give me some clue as to what to build, but instead, I just end up wasting more time it feels like. &lt;&#x2F;p&gt;
+&lt;p&gt;I wish I knew why this was happening. I&#x27;ve always had issues with maintaining projects, as I am riddled with ADHD, however right now, it just feels, different. Maybe I&#x27;m burnt out, but it doesn&#x27;t feel like that to me, because I &lt;em&gt;want&lt;&#x2F;em&gt; to write code. I &lt;em&gt;want&lt;&#x2F;em&gt; to make something useful, even if only I use it. I&#x27;m just failing to figure out what.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
