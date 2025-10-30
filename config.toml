@@ -21,6 +21,7 @@ highlight_theme = "gruvbox-light"
 
 [extra]
 # Put all your custom variables here
+# I need a redeploy, site broke.
 
 seo = true
 author = "Hera Chamorro"
